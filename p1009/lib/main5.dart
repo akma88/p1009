@@ -6,7 +6,7 @@
 // }
 
 //Ozim jasagan
-void main() {
-  String? city = 'Taraz';
-  print(city?.toUpperCase());
-}
+// void main() {
+//   String? city = 'Taraz';
+//   print(city?.toUpperCase());
+// }

@@ -8,12 +8,12 @@
 // }
 
 //Ozim jasagan
-void main() {
-  String? city;
+// void main() {
+//   String? city;
 
-  if (city == null) {
-    print('City is not specified');
-  } else {
-    print('${city.length}');
-  }
-}
+//   if (city == null) {
+//     print('City is not specified');
+//   } else {
+//     print('${city.length}');
+//   }
+// }
